@@ -1,0 +1,1 @@
+My Text Document to be commited to Local repository using Notepad++ editor.
